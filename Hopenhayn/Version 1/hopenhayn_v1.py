@@ -19,7 +19,7 @@ Required packages:
     -- Packages from the anaconda distribution. (to install for free: https://www.anaconda.com/products/individual)
     -- QuantEcon (to install: 'conda install quantecon')
 """
-
+"Change
 
 import time
 import numpy as np
